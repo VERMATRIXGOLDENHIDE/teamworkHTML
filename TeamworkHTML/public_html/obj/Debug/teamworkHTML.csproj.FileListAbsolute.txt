@@ -1,0 +1,12 @@
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.dll.config
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.dll
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\bin\teamworkHTML.pdb
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.dll
+D:\SoftUni\Web Fundamentals (HTML + CSS)\11.TeamWork\trunk\teamworkHTML\obj\Debug\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.dll.config
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\bin\teamworkHTML.pdb
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.dll
+C:\Users\D.Valchanova\Desktop\trunk\teamworkHTML\obj\Debug\teamworkHTML.pdb
